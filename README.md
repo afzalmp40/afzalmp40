@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afzalmp40
 - 👀 I’m interested in machine learning and data science.
-- 🌱 I’m currently learning python and basics of ML
-- 💞️ I’m looking to collaborate on small ML projects
+- 🌱 I’m currently learning python and basics of ML. 
+- 🤓 I’m looking to work as an intern. 
 - 📫 How to reach me afzalmp40@gmail.com
 
 <!---
