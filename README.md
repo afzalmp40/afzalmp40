@@ -6,7 +6,7 @@
 
 I have worked on various datasets like Winsconsin breast cancer, PIMA diabetes, California housing etc using supervised learning models.
 I have also worked on unsupervised learning models. 
-Please check out the repos.
+I also have hands on experience with numpy, pandas, matplotlib, seaborn and sklearn libraries.
 
 <!---
 afzalmp40/afzalmp40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
