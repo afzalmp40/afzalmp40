@@ -4,7 +4,7 @@
 - 🤓 I’m open to internship opportunities. 
 - 📫 How to reach me afzalmp40@gmail.com
 
-Skills: Coding:
+Skills:
 
     Python (numpy, pandas, matplotlib, seaborn, sklearn, tkinter libraries)
     Database: MySQL, PostgreSQL, MongoDB          
