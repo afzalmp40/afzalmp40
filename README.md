@@ -6,9 +6,9 @@
 
 Skills: Coding:
 
-  Python (numpy, pandas, matplotlib, seaborn, sklearn, tkinter libraries)
-  Database: MySQL, PostgreSQL, MongoDB          
-  Version control: Git and github
+    Python (numpy, pandas, matplotlib, seaborn, sklearn, tkinter libraries)
+    Database: MySQL, PostgreSQL, MongoDB          
+    Version control: Git and github
 
 I have worked on various datasets like Telecom churn rate, Stock market portfolio, PIMA diabetes 
 etc using supervised learning models.
