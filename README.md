@@ -4,9 +4,9 @@
 - 🤓 I’m open to internship opportunities. 
 - 📫 How to reach me afzalmp40@gmail.com
 
-Skills: Coding: Python and numpy, pandas, matplotlib, seaborn, sklearn, tkinter libraries. 
+Skills: Coding: Python (numpy, pandas, matplotlib, seaborn, sklearn, tkinter libraries)
                 SQL
-        Version control: Git and github
+                Version control: Git and github
 
 I have worked on various datasets like Telecom churn rate, Stock market portfolio, Winsconsin breast cancer, PIMA diabetes, California housing etc using supervised learning models.
 I have also worked on customer aggregation dataset using unsupervised learning models. 
