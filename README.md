@@ -7,6 +7,7 @@
 Skills:
 
     Python (numpy, pandas, matplotlib, seaborn, sklearn, tkinter libraries)
+    Visualisation: Tableau( https://public.tableau.com/app/profile/afzal.qureshi )
     Database: MySQL, PostgreSQL, MongoDB          
     Version control: Git and github
 
